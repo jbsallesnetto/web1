@@ -1,0 +1,89 @@
+body{
+	/* background: #234233; */ 
+}
+#page{
+	width: 800px;
+	margin: 0 auto 0 auto;
+}
+#header{
+	width: 800px; 
+	height: 200px; 
+	/*background: #234233; */
+	margin: 0 0 10px 0;	
+}
+/*#nav{
+	width: 800px; 
+	height: 50px; 
+	background: #A45234;
+	margin: 10px 0 10px 0;
+}*/
+#logo{
+	background: #056357;   
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin: 40px 0 0 390px;  
+}
+#header h1{
+	margin: 0 0 0 240px;
+	float: left;
+	font-family: 'Indie Flower', cursive;
+	color: #1914A9;
+}
+#header h4{
+	margin: 0 0 0 429px;
+	float: left;
+	font-family: 'Indie Flower', cursive;
+	color: #1914A9;
+}
+#sidebar{
+	width: 300px; 
+	height: 650px; 
+/*	background: #234556;*/
+	float: left;
+	margin: 56px 10px 0 0;	
+}
+/*#logo2{
+	background: #123986;
+	width: 400px;
+	height: 200px;
+	margin: 180px 85px 20px 85px;
+}*/
+#content{
+	width: 482px; 
+	height: 650px; 
+	background: #BEBEBE;
+	float: right;	
+	margin: 56px 0 0 0;
+	text-align: justify;
+	padding: 4px;
+}
+.tabelacurriculo{
+	width: 100%; 
+}
+.tabelacurriculo, .tabelacurriculo td, .tabelacurriculo th {
+	 border: 1px dotted #777; 
+}
+.tabelacurriculo td, .tabelacurriculo th{
+	padding: 5px 5px;
+}
+.corsim{
+	background: #EEE;
+}
+.centralizar{
+	text-align: center;
+}
+#footerE{
+	width: 395px; 
+	height: 120px; 
+	/*background: #654564;*/
+	float:left;
+	margin: 10px 5px 0 0;	
+}
+#footerD{
+	width: 395px; 
+	height: 120px; 
+	/*background: #654564;*/
+	float:left;
+	margin: 10px 0 0 5px;	
+}
